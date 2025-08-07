@@ -100,7 +100,7 @@ html, body, [class*="css"] {
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<div class='navbar'>QUESTIFY = Turn documents into answers</div>", unsafe_allow_html=True)
+st.markdown("<div class='navbar'>QUESTIFY = Turn document into answer </div>", unsafe_allow_html=True)
 
 st.sidebar.title(" About This Project")
 st.sidebar.markdown("""
