@@ -107,7 +107,7 @@ st.sidebar.markdown("""
 This application allows you to ask questions directly from your PDF documents using the power of AI.
 
 Built with:
-- LLM-based question answering
+- llm-based question answering
 - PDF text extraction
 - Embedding search with vector DB
 
